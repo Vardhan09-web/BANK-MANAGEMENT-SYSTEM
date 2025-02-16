@@ -60,6 +60,7 @@ This is a simple console-based Bank Management System written in Java. It allows
 
 ## Example Usage
 
+```
 ...............Welcome to V-Dev Bank.......
 Enter 1 to Start / 0 to End
 1
@@ -77,6 +78,6 @@ Welcome Bank Manager vardhan
 1.Add New User Account
 2.Show all Bank Holders
 .......................
-
+```
 
 
