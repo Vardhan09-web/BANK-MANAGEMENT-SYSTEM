@@ -25,7 +25,7 @@ This is a simple console-based Bank Management System written in Java. It allows
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/bank-management-system.git
+   git clone https://github.com/Vardhan09-web/bank-management-system.git
    ```
 2. Navigate to the project folder:
    ```sh
@@ -60,7 +60,6 @@ This is a simple console-based Bank Management System written in Java. It allows
 
 ## Example Usage
 
-```
 ...............Welcome to V-Dev Bank.......
 Enter 1 to Start / 0 to End
 1
